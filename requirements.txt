@@ -1,0 +1,5 @@
+bs4
+requests
+openpyxl
+pandas
+tk
